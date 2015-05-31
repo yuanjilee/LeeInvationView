@@ -9,7 +9,6 @@
 ![22222222](https://cloud.githubusercontent.com/assets/9959986/7901588/4498746c-07c2-11e5-8b2a-29ce5baad558.gif)
 
 
-https://github.com/yuanjilee/LeeInvationView
 
-![](https://github.com/yuanjilee/LeeInvationViewo/LeeInvationCode.gif) 
+![](https://github.com/yuanjilee/LeeInvationView/LeeInvationCode.gif) 
 
