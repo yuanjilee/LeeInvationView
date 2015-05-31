@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "ZSDSetPasswordView.h"
 @interface ViewController ()
 
 @end
@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    self.view.backgroundColor = [UIColor darkGrayColor];
+    ZSDSetPasswordView *view = [[ZSDSetPasswordView alloc]initWithFrame:CGRectMake(10, 100, 300, 100)];
+    [self.view addSubview:view];
 }
 
 - (void)didReceiveMemoryWarning {

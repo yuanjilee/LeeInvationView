@@ -14,6 +14,7 @@
 		181F3D241B1756F800D2B854 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 181F3D231B1756F800D2B854 /* Images.xcassets */; };
 		181F3D271B1756F800D2B854 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 181F3D251B1756F800D2B854 /* LaunchScreen.xib */; };
 		181F3D331B1756F800D2B854 /* LeeInvationViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 181F3D321B1756F800D2B854 /* LeeInvationViewTests.m */; };
+		181F3D3E1B17573800D2B854 /* ZSDSetPasswordView.m in Sources */ = {isa = PBXBuildFile; fileRef = 181F3D3D1B17573800D2B854 /* ZSDSetPasswordView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		181F3D2C1B1756F800D2B854 /* LeeInvationViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LeeInvationViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		181F3D311B1756F800D2B854 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		181F3D321B1756F800D2B854 /* LeeInvationViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LeeInvationViewTests.m; sourceTree = "<group>"; };
+		181F3D3C1B17573800D2B854 /* ZSDSetPasswordView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSDSetPasswordView.h; sourceTree = "<group>"; };
+		181F3D3D1B17573800D2B854 /* ZSDSetPasswordView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSDSetPasswordView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +86,8 @@
 			children = (
 				181F3D1A1B1756F800D2B854 /* AppDelegate.h */,
 				181F3D1B1B1756F800D2B854 /* AppDelegate.m */,
+				181F3D3C1B17573800D2B854 /* ZSDSetPasswordView.h */,
+				181F3D3D1B17573800D2B854 /* ZSDSetPasswordView.m */,
 				181F3D1D1B1756F800D2B854 /* ViewController.h */,
 				181F3D1E1B1756F800D2B854 /* ViewController.m */,
 				181F3D201B1756F800D2B854 /* Main.storyboard */,
@@ -221,6 +226,7 @@
 			files = (
 				181F3D1F1B1756F800D2B854 /* ViewController.m in Sources */,
 				181F3D1C1B1756F800D2B854 /* AppDelegate.m in Sources */,
+				181F3D3E1B17573800D2B854 /* ZSDSetPasswordView.m in Sources */,
 				181F3D191B1756F800D2B854 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
