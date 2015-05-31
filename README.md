@@ -6,9 +6,9 @@
 
 
 
-![22222222](https://cloud.githubusercontent.com/assets/9959986/7901588/4498746c-07c2-11e5-8b2a-29ce5baad558.gif)
 
 
 
-![](https://github.com/yuanjilee/LeeInvationView/LeeInvationCode.gif) 
+
+![image](https://github.com/yuanjilee/LeeInvationView/LeeInvationCode.gif) 
 
