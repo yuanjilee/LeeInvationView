@@ -10,5 +10,5 @@
 
 
 
-![image](https://github.com/yuanjilee/LeeInvationView/LeeInvationCode.gif) 
+![image](https://github.com/yuanjilee/LeeInvationView/blob/master/LeeInvationCode.gif) 
 
